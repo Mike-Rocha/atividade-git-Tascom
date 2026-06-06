@@ -8,7 +8,7 @@ let conta: number = 1000;
 let saque: number = 0;
 
 while (true) {
-    console.log(`=== CAIXA ELETRÔNICO ===
+    console.log(`=== CAIXA ELETRÔNICO  TASCOM ===
     1 - Depositar
     2 - Sacar
     3 - Mostrar saldo
